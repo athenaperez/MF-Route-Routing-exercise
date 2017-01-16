@@ -1,0 +1,20 @@
+{
+  "name": "MF-Route-Routing-exercise",
+  "homepage": "https://github.com/athenaperez/MF-Route-Routing-exercise",
+  "authors": [
+    "Athena Perez <athenaperez@me.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.6.1"
+  }
+}
